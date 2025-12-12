@@ -1,0 +1,1 @@
+🎓 Professional portfolio website for computer engineering students. Features interactive resumes, dark/light mode, contact form with email notifications, and MySQL backend. Built with Node.js, Express, and modern responsive design.
